@@ -4,12 +4,14 @@ python:
 sudo: required
 install:
   - python -m venv venv
-  - source venv/bin/activate 
-  - pip3 install pyyaml
-  - pip3 install Pillow
+  - source venv/bin/activate
+  - pip -V
+  - pip install pyyaml
+  - pip install Pillow
   - python scripts/nest.py
 script:
   - python -m venv venv
+  - python scripts/main.py
 deploy:
   provider: pages
   github_token: $GITHUB_TOKEN
