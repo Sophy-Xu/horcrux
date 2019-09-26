@@ -1,11 +1,12 @@
 language: python
 python:
   - "3.7"
+sudo: required
 install:
   - python -m venv venv
   - source venv/bin/activate 
-  - pip install pyyaml
-  - pip install Pillow
+  - pip3 install pyyaml
+  - pip3 install Pillow
   - python scripts/nest.py
 script:
   - python -m venv venv
