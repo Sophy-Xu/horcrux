@@ -6,8 +6,8 @@ install:
   - python -m venv venv
   - source venv/bin/activate
   - pip -V
-  - pip install pyyaml
-  - pip install Pillow
+  - pip --user install pyyaml
+  - pip --user install Pillow
   - python scripts/nest.py
 script:
   - python -m venv venv
