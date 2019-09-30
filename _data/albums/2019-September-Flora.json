@@ -1,0 +1,54 @@
+{
+  "order": [
+    "IMG_9500.jpg",
+    "IMG_9399.JPG",
+    "IMG_9201.jpg",
+    "IMG_9199.jpg",
+    "IMG_0629.JPG",
+    "IMG_0513.jpg"
+  ],
+  "dict": {
+    "IMG_9500.jpg": {
+      "type": "photo",
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/2019/September/Flora/IMG_9500.jpg",
+      "min_path": "./photos/2019/September/Flora/IMG_9500.min.jpg"
+    },
+    "IMG_9399.JPG": {
+      "type": "photo",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/2019/September/Flora/IMG_9399.JPG",
+      "min_path": "./photos/2019/September/Flora/IMG_9399.min.JPG"
+    },
+    "IMG_9201.jpg": {
+      "type": "photo",
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/2019/September/Flora/IMG_9201.jpg",
+      "min_path": "./photos/2019/September/Flora/IMG_9201.min.jpg"
+    },
+    "IMG_9199.jpg": {
+      "type": "photo",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/2019/September/Flora/IMG_9199.jpg",
+      "min_path": "./photos/2019/September/Flora/IMG_9199.min.jpg"
+    },
+    "IMG_0629.JPG": {
+      "type": "photo",
+      "width": 3984,
+      "height": 2656,
+      "path": "./photos/2019/September/Flora/IMG_0629.JPG",
+      "min_path": "./photos/2019/September/Flora/IMG_0629.min.JPG"
+    },
+    "IMG_0513.jpg": {
+      "type": "photo",
+      "width": 3984,
+      "height": 2656,
+      "path": "./photos/2019/September/Flora/IMG_0513.jpg",
+      "min_path": "./photos/2019/September/Flora/IMG_0513.min.jpg"
+    }
+  }
+}

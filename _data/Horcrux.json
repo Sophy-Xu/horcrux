@@ -17,32 +17,32 @@
         ],
         "items": {
           "order": [
-            "August"
+            "September"
           ],
           "dict": {
-            "August": {
-              "name": "August",
+            "September": {
+              "name": "September",
               "type": "album",
               "root": 2,
               "parents": [
                 "2019",
-                "August"
+                "September"
               ],
               "items": {
                 "order": [
-                  "Street"
+                  "Flora"
                 ],
                 "dict": {
-                  "Street": {
-                    "name": "Street",
+                  "Flora": {
+                    "name": "Flora",
                     "type": "album",
                     "root": 3,
                     "parents": [
                       "2019",
-                      "August",
-                      "Street"
+                      "September",
+                      "Flora"
                     ],
-                    "path": "./_data/albums/2019-August-Street.json",
+                    "path": "./_data/albums/2019-September-Flora.json",
                     "no_sub_album": true
                   }
                 }
