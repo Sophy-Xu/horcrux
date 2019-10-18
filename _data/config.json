@@ -17,6 +17,13 @@
       },
       {
         "type": "photo",
+        "width": 600,
+        "height": 400,
+        "path": "./photos/2019/September/Flora/IMG_9399.min.JPG",
+        "min_path": "./photos/2019/September/Flora/IMG_9399.min.min.JPG"
+      },
+      {
+        "type": "photo",
         "width": 6000,
         "height": 4000,
         "path": "./photos/2019/September/Flora/IMG_9399.JPG",
@@ -35,6 +42,13 @@
         "height": 4000,
         "path": "./photos/2019/September/Flora/IMG_9199.jpg",
         "min_path": "./photos/2019/September/Flora/IMG_9199.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 600,
+        "height": 400,
+        "path": "./photos/2019/September/Flora/IMG_0629.min.JPG",
+        "min_path": "./photos/2019/September/Flora/IMG_0629.min.min.JPG"
       },
       {
         "type": "photo",

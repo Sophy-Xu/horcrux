@@ -3,14 +3,12 @@ python:
   - "3.7"
 sudo: required
 install:
-  - python -m venv venv
-  - source venv/bin/activate
+  - python -V
   - pip -V
-  - pip install --user pyyaml
+  - pip install --user --ignore-installed pyyaml
   - pip install --user Pillow
-  - python scripts/nest.py
 script:
-  - python -m venv venv
+  - python scripts/nest.py
   - python scripts/main.py
 deploy:
   provider: pages
