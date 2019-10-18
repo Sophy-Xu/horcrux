@@ -2,8 +2,6 @@ language: python
 python:
   - "3.7"
 sudo: required
-virtualenv:
-  system_site_packages: true
 install:
   - python -m venv venv
   - source venv/bin/activate
